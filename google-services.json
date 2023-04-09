@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1060413453223",
+    "firebase_url": "https://mobile-capital-city-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mobile-capital-city",
+    "storage_bucket": "mobile-capital-city.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060413453223:android:0a80ff56c4a0cb7129bc82",
+        "android_client_info": {
+          "package_name": "com.puttipong.ny.Project_CapitalIntroduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060413453223-5ge5lu3aokih46bvu2diebec8a85ersd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puttipong.ny.Project_CapitalIntroduction",
+            "certificate_hash": "ec1ac030e7b66db592caf99a8f56d208f585b54f"
+          }
+        },
+        {
+          "client_id": "1060413453223-dsluobfuu5jntnismin01l6q434mttrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.puttipong.ny.Project_CapitalIntroduction",
+            "certificate_hash": "6d5fa9fbfb54b710e3b89078f9130ddbc7a21a84"
+          }
+        },
+        {
+          "client_id": "1060413453223-f7mau0b7n33uret747p1mv3enbi4u12j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj_YBHDu-iHg21pewkgyj2Y1TVky_3WH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060413453223-f7mau0b7n33uret747p1mv3enbi4u12j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
